@@ -1,0 +1,19 @@
+# Compiled rules (uncomment if you don't want to commit generated files)
+# compiled/
+
+# Vendor dependencies
+vendors/
+
+# Backup files
+*.backup.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

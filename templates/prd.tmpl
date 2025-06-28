@@ -1,0 +1,19 @@
+# {{.Name}} Rule
+
+{{if eq .Target "cursor"}}
+---
+description: {{.Description}}
+globs: {{.Globs}}
+alwaysApply: true
+---
+{{end}}
+
+This is an example rule template for {{.Target}}.
+
+{{if eq .Target "claude"}}Arguments: $ARGUMENTS{{end}}
+
+## Guidelines
+
+- Follow coding best practices
+- Write clean, readable code
+- Include proper error handling

@@ -1,0 +1,5 @@
+vendors: []
+defaults:
+    include_vendors: []
+    modes:
+        claude: command
