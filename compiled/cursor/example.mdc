@@ -1,0 +1,24 @@
+---
+description: AI coding rules for examples/example
+globs: **/*
+alwaysApply: true
+---
+
+# examples/example Rule
+
+---
+description: AI coding rules for examples/example
+globs: **/*
+alwaysApply: true
+---
+
+
+This is an example rule template for cursor.
+
+
+
+## Guidelines
+
+- Follow coding best practices
+- Write clean, readable code
+- Include proper error handling
